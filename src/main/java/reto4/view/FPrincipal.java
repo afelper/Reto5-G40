@@ -45,7 +45,7 @@ public class FPrincipal extends JFrame {
 
     private void initGUI(){
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Requerimientos del Reto 5");
+        setTitle("Nosotros Fuimos /Requerimientos Reto 5");
         {
             panelPestanas = new JTabbedPane();
             getContentPane().add(panelPestanas, BorderLayout.CENTER);
@@ -109,7 +109,7 @@ public class FPrincipal extends JFrame {
 
             }
         }
-        setSize(800,600);
+        setSize(650,400); //tamaño de pantalla
     }
 
     private void consultarRequerimientoUno(){
