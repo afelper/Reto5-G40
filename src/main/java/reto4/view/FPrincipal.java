@@ -109,7 +109,7 @@ public class FPrincipal extends JFrame {
 
             }
         }
-        setSize(650,400); //tamaño de pantalla
+        setSize(640,480); //tamaño de pantalla
     }
 
     private void consultarRequerimientoUno(){
